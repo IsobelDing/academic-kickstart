@@ -31,7 +31,7 @@ education:
     institution: Purdue University
     year: 2022(Expected)
   - course: M.S. in Mathematical Finance
-    institution: University of California, San Diego
+    institution: University of California San Diego
     year: 2017
   - course: B.Sc. in Physics
     institution: Fudan University
