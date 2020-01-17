@@ -14,7 +14,7 @@ role: Ph.D. student in Management Information System
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
+- name: Krannert School of Management, Purdue University
   url: "https://krannert.purdue.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +46,7 @@ social:
   link: mailto:ding246@purdue.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
