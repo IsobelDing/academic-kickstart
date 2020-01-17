@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name:Jianing Ding
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Purdue University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include healthcare management and analytics.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Management Information System
+    institution: Purdue University
+    year: 2022(Expected)
+  - course: M.S. in Mathematical Finance
+    institution: University of California, San Diego
+    year: 2017
+  - course: B.Sc. in Physics
+    institution: Fudan University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
