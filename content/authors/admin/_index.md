@@ -72,4 +72,4 @@ user_groups:
 
 Jianing Ding is a Ph.D. student in Management in Information System at Krannert School of Management, Purdue University. She is fortunately advised by Professor Karthik Kannan and Susan F. Lu.
 
-She received a Master of Science in Mathematical Finance from Rady School of Management, University of California San Diego, and a Bachelor of Science in Physics from Fudan University.
+Jianing received a Master of Science in Mathematical Finance from Rady School of Management, University of California San Diego, and a Bachelor of Science in Physics from Fudan University.
