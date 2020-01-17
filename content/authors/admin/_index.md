@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Management Information System
-    institution: Purdue University
+    institution: Krannert School of Management, Purdue University
     year: 2022 (Expected)
   - course: M.S. in Mathematical Finance
-    institution: University of California San Diego
+    institution: Rady School of Management, University of California San Diego
     year: 2017
   - course: B.Sc. in Physics
     institution: Fudan University
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Jianing Ding is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jianing Ding is a Ph.D. student in Management in Information System at Krannert School of Management, Purdue University. She is fortunately advised by Professor Karthik Kannan and Susan F. Lu.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She received a Master of Science in Mathematical Finance from Rady School of Management, University of California San Diego, and a Bachelor of Science in Physics from Fudan University.
