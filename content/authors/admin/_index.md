@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include healthcare management and analytics.
 
 interests:
+- Economic of IS
 - Healthcare management and analytics
 - Health IT
 
